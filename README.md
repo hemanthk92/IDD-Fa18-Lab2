@@ -23,10 +23,13 @@ Include your responses to the bold questions on your own fork of [this lab repor
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
+The 5.5 Volt pin power the display. Thats because the 5.5V pin is connected to pins VSS to R on the board. 
 
 **b. What voltage level do you need to power the display backlight?**
-   
+The backlight is powered by 3.3 V. If we use +5V we may burn the background light.
+
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
+I did not supply the 3.3V source to any power line. So my display was working but not my backlight. Once I connected the 3.3V source to the other power line, I was able to get the backlight. 
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
  
