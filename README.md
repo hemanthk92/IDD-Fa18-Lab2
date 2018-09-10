@@ -35,7 +35,7 @@ I did not supply the 3.3V source to any power line. So my display was working bu
 We have to change the line lcd.print("hello, world!");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
-
+[link to code](/multimeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
