@@ -45,9 +45,10 @@ We have to change the line lcd.print("hello, world!");
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+<br > 
 In the code they define the int noteDurations[] = {4, 8, 8, 4, 4, 4, 4, 4};. We would need to double the values in this array
 to double the speed. The noe duration is 1 divided by these numbers so increasing the values reduces the duration.
-**b. What song is playing?**
+**b. What song is playing?**<br>
 It plays the star wars theme song!! The jedi will return!!! And destroy the sith lord!! 
 
 ## Part E. Make your own timer
