@@ -32,6 +32,7 @@ The backlight is powered by 3.3 V. If we use +5V we may burn the background ligh
 I did not supply the 3.3V source to any power line. So my display was working but not my backlight. Once I connected the 3.3V source to the other power line, I was able to get the backlight. 
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+We have to change the line lcd.print("hello, world!");
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
@@ -44,9 +45,10 @@ I did not supply the 3.3V source to any power line. So my display was working bu
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
- 
+In the code they define the int noteDurations[] = {4, 8, 8, 4, 4, 4, 4, 4};. We would need to double the values in this array
+to double the speed. The noe duration is 1 divided by these numbers so increasing the values reduces the duration.
 **b. What song is playing?**
-
+It plays the star wars theme song!! The jedi will return!!! And destroy the sith lord!! 
 
 ## Part E. Make your own timer
 
