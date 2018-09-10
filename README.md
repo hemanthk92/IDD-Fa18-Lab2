@@ -40,7 +40,7 @@ We have to change the line lcd.print("hello, world!");
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
-
+[link to video](https://www.youtube.com/watch?v=65VcKsw9V5s)
 
 ## Part D. Make your Arduino sing!
 
