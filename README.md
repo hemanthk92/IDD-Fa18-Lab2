@@ -1,7 +1,7 @@
 ## Make a Digital Timer!
 <br>
 Prelab: <br>
-[Prelab ideas](/prelab1.JPG)
+[Prelab ideas 1](/prelab1.JPG)
 [Prelab ideas 2](/prelab2.JPG)
 <br>
 # Make a Digital Timer!
