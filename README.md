@@ -57,5 +57,5 @@ It plays the star wars theme song!! The jedi will return!!! And destroy the sith
 [link to timer](https://www.youtube.com/watch?v=MRvTkijSoTI)
 I made an Arduino Jukebox that plays a song for 20 seconds and when the timer is up plays another song. If you get tired of the song and want to change it before 20 second passes, you can turn the knob on the rotary encoder and this will trigger the next song to play and restart the timer. 
 The times are displayed to the serial monitor.  <br>
-I've also attached the code as [link to code](/jukebox.ino)
+I've also attached the code as [link to code](/jukebox.ino)<br>
 **b. Post a link to the completed lab report your class hub GitHub repo.**
