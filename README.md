@@ -1,9 +1,6 @@
 ## Make a Digital Timer!
 <br>
-Prelab: <br>
-[Prelab ideas](/multimeter.ino)
-[Prelab ideas 1](/prelab1.JPG)
-[Prelab ideas 2](/prelab2.JPG)
+Prelab is attached in image prelab1.JPG and prelab2.JPG <br>
 <br>
 # Make a Digital Timer!
  
