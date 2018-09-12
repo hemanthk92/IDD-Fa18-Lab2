@@ -1,7 +1,5 @@
 ## Make a Digital Timer!
-<br>
-Prelab is attached in image prelab1.JPG and prelab2.JPG <br>
-<br>
+**A lab report by Hemanth Kondapalli Student**
 # Make a Digital Timer!
  
 ## Overview
